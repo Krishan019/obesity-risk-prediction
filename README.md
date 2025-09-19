@@ -1,7 +1,7 @@
 # Multi-Class Prediction of Obesity Risk
 Exploratory Data Analysis (EDA), Different Machine Learning and Boosting Models for Multi-Class Prediction of Obesity Risk
 
-## Goal:
+##  Goal:
 The goal of this project is to develop a machine learning model capable of accurately predicting obesity risk in individuals by utilising various parameters/features.
 
 ## Dataset Description:
@@ -69,7 +69,7 @@ A variety of models were trained and evaluated to find the best classifier for t
 * CatBoost Classifier
 * Voting Classifier (ensemble of multiple models)  
 
-## 📈 Results
+## Results
 The best-performing model was the **LightGBM**, which achieved an average accuracy of **0.9049** on the evaluation data. Although all the boosting classifiers and the voting classifier had very close accuracies, around 90%.
 | Model                 | Average Accuracy        |
 |-----------------------|-------------------------|
